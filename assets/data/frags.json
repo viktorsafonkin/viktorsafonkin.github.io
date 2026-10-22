@@ -1,0 +1,117 @@
+{
+ "assets/works/01-vremya.jpg": {
+  "frag": "assets/frag/frag-01.jpg",
+  "w": 700,
+  "h": 545
+ },
+ "assets/works/02-kolybelnaya.jpg": {
+  "frag": "assets/frag/frag-02.jpg",
+  "w": 700,
+  "h": 698
+ },
+ "assets/works/03-not-sci-fi.jpg": {
+  "frag": "assets/frag/frag-03.jpg",
+  "w": 700,
+  "h": 465
+ },
+ "assets/works/04-van-gog-v-palto.jpg": {
+  "frag": "assets/frag/frag-04.jpg",
+  "w": 700,
+  "h": 875
+ },
+ "assets/works/05-nochnye-igry.jpg": {
+  "frag": "assets/frag/frag-05.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "assets/works/06-zavisimost.jpg": {
+  "frag": "assets/frag/frag-06.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "assets/works/07-klever.jpg": {
+  "frag": "assets/frag/frag-07.jpg",
+  "w": 700,
+  "h": 874
+ },
+ "assets/works/08-vechnaya-vesna.jpg": {
+  "frag": "assets/frag/frag-08.jpg",
+  "w": 700,
+  "h": 702
+ },
+ "assets/works/09-upraviteli-oseni.jpg": {
+  "frag": "assets/frag/frag-09.jpg",
+  "w": 700,
+  "h": 467
+ },
+ "assets/works/10-privlechenie-vnimaniya.jpg": {
+  "frag": "assets/frag/frag-10.jpg",
+  "w": 700,
+  "h": 876
+ },
+ "assets/works/11-krasnyy-smeh.jpg": {
+  "frag": "assets/frag/frag-11.jpg",
+  "w": 700,
+  "h": 465
+ },
+ "assets/works/12-ottepel-serdec.jpg": {
+  "frag": "assets/frag/frag-12.jpg",
+  "w": 700,
+  "h": 702
+ },
+ "assets/works/13-sumerki.jpg": {
+  "frag": "assets/frag/frag-13.jpg",
+  "w": 700,
+  "h": 877
+ },
+ "assets/works/14-rozovyy-veter.jpg": {
+  "frag": "assets/frag/frag-14.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "assets/works/15-pyuschie-zerkala.jpg": {
+  "frag": "assets/frag/frag-15.jpg",
+  "w": 700,
+  "h": 466
+ },
+ "assets/works/16-podmena.jpg": {
+  "frag": "assets/frag/frag-16.jpg",
+  "w": 700,
+  "h": 877
+ },
+ "assets/works/17-otozhdestvlenie.jpg": {
+  "frag": "assets/frag/frag-17.jpg",
+  "w": 700,
+  "h": 466
+ },
+ "assets/works/18-mgla.jpg": {
+  "frag": "assets/frag/frag-18.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "assets/works/19-marsianskiy-vokzal.jpg": {
+  "frag": "assets/frag/frag-19.jpg",
+  "w": 700,
+  "h": 878
+ },
+ "assets/works/20-zhazhda-i-oznob.jpg": {
+  "frag": "assets/frag/frag-20.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "assets/works/21-vyshibanie-duha.jpg": {
+  "frag": "assets/frag/frag-21.jpg",
+  "w": 700,
+  "h": 467
+ },
+ "assets/works/22-bolshe-holoda.jpg": {
+  "frag": "assets/frag/frag-22.jpg",
+  "w": 700,
+  "h": 876
+ },
+ "assets/works/23-anomalnoe-zhivotnoe.jpg": {
+  "frag": "assets/frag/frag-23.jpg",
+  "w": 700,
+  "h": 466
+ }
+}
