@@ -193,6 +193,22 @@
 
   btn.addEventListener("click", toggle);
 
+  // автозапуск: пробуем сразу, иначе при первом действии посетителя
+  let userOff = false;
+  btn.addEventListener("click", () => { if (!on) userOff = true; });
+  function autoStart(e) {
+    if (on || userOff) return cleanup();
+    if (e && e.target && btn.contains(e.target)) return cleanup();
+    toggle().then(() => { if (ctx && ctx.state === "running") cleanup(); }).catch(() => {});
+  }
+  const EV = ["pointerdown", "keydown", "touchstart", "wheel", "scroll"];
+  function cleanup() { EV.forEach((n) => window.removeEventListener(n, autoStart, true)); }
+  EV.forEach((n) => window.addEventListener(n, autoStart, { capture: true, passive: true }));
+  window.addEventListener("load", () => {
+    if (!built) build();
+    ctx.resume().then(() => { if (ctx.state === "running" && !on) { toggle(); cleanup(); } }).catch(() => {});
+  });
+
   document.addEventListener("visibilitychange", () => {
     if (!ctx) return;
     if (document.hidden) ctx.suspend();
