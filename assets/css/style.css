@@ -371,12 +371,12 @@ body.lb-open{overflow:hidden}
 .work-video.ready{opacity:1}
 
 /* кнопка видео на карточке */
-.card-play{position:absolute;right:12px;bottom:12px;z-index:4;width:44px;height:44px;border-radius:50%;
-  border:1px solid rgba(233,226,214,.55);background:rgba(10,9,8,.62);cursor:pointer;padding:0;
-  display:grid;place-items:center;transition:background .25s,border-color .25s,transform .25s}
-.card-play::before{content:"";width:0;height:0;margin-left:3px;border-style:solid;
-  border-width:7px 0 7px 12px;border-color:transparent transparent transparent var(--ink,#e9e2d6)}
-.card-play.playing::before{width:10px;height:13px;margin:0;border:0;
-  border-left:3px solid var(--ink,#e9e2d6);border-right:3px solid var(--ink,#e9e2d6)}
-.card-play:hover,.card-play:focus-visible{background:rgba(142,31,23,.85);border-color:transparent;transform:scale(1.06)}
+.card-play{position:absolute;right:12px;bottom:12px;z-index:4;width:40px;height:40px;border-radius:50%;
+  border:1px solid rgba(255,255,255,.8);background:transparent;cursor:pointer;padding:0;
+  display:grid;place-items:center;transition:opacity .25s;opacity:.85}
+.card-play::before{content:"";width:16px;height:16px;margin-left:2px;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 2.5 13 8 4 13.5Z' fill='none' stroke='white' stroke-width='1' stroke-linejoin='round'/%3E%3C/svg%3E") center/contain no-repeat}
+.card-play.playing::before{margin:0;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M5 3v10M11 3v10' stroke='white' stroke-width='1'/%3E%3C/svg%3E") center/contain no-repeat}
+.card-play:hover,.card-play:focus-visible{opacity:1}
 .card-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:3;pointer-events:none;background:#000}
