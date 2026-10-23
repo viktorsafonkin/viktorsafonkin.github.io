@@ -197,11 +197,12 @@
   let userOff = false;
   btn.addEventListener("click", () => { if (!on) userOff = true; });
   function autoStart(e) {
+    if (on && ctx && ctx.state !== "running") { ctx.resume().then(() => { if (ctx.state === "running") cleanup(); }).catch(() => {}); return; }
     if (on || userOff) return cleanup();
     if (e && e.target && btn.contains(e.target)) return cleanup();
     toggle().then(() => { if (ctx && ctx.state === "running") cleanup(); }).catch(() => {});
   }
-  const EV = ["pointerdown", "keydown", "touchstart", "wheel", "scroll"];
+  const EV = ["pointerdown", "keydown", "touchstart", "touchend", "click", "wheel", "scroll"];
   function cleanup() { EV.forEach((n) => window.removeEventListener(n, autoStart, true)); }
   EV.forEach((n) => window.addEventListener(n, autoStart, { capture: true, passive: true }));
   window.addEventListener("load", () => {
