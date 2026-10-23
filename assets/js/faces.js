@@ -54,7 +54,7 @@
       const ry = cfg.ry * h;
 
       ctx.save();
-      ctx.filter = "blur(" + Math.max(1, rx * 0.22).toFixed(1) + "px)";
+      ctx.filter = "none";
       ctx.beginPath();
       ctx.ellipse(x, y, rx, ry, 0, 0, Math.PI * 2);
       ctx.fillStyle = "rgba(56,36,30," + alpha.toFixed(3) + ")";
@@ -69,7 +69,7 @@
       const ry = cfg.ry * h * open;
 
       ctx.save();
-      ctx.filter = "blur(" + Math.max(0.6, rx * 0.18).toFixed(1) + "px)";
+      ctx.filter = "none";
       ctx.beginPath();
       ctx.ellipse(x, y, rx, ry, 0, 0, Math.PI * 2);
       ctx.fillStyle = "rgba(74,26,22," + alpha.toFixed(3) + ")";
