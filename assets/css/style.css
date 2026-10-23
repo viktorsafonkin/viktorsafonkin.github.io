@@ -385,3 +385,5 @@ body.lb-open{overflow:hidden}
 .btn-book{max-width:100%;flex-wrap:wrap}
 .btn-book:hover,.btn-book:focus-visible{background:transparent;color:var(--ink);border-color:rgba(233,226,214,.9)}
 .btn-book:hover i{color:var(--dim);border-color:inherit}
+.foot-mail{font-size:11px;letter-spacing:.08em;color:var(--dim);border-bottom:1px solid rgba(233,226,214,.25);padding-bottom:2px}
+.foot-mail:hover{color:var(--ink);border-color:var(--ink)}
