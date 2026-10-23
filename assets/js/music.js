@@ -168,51 +168,98 @@
     bellTimer = setTimeout(bell, 9000 + Math.random() * 14000);
   }
 
-  async function toggle() {
-    if (!built) build();
-    if (ctx.state === "suspended") await ctx.resume();
+  let busy = false;
 
-    on = !on;
-    const t = ctx.currentTime;
-
-    master.gain.cancelScheduledValues(t);
-    master.gain.setValueAtTime(master.gain.value, t);
-    master.gain.linearRampToValueAtTime(on ? 0.5 : 0, t + (on ? 3 : 1.3));
-
+  function setUI() {
     btn.classList.toggle("on", on);
     btn.setAttribute("aria-pressed", String(on));
     btn.setAttribute("aria-label", on ? "Выключить фоновую музыку" : "Включить фоновую музыку");
+  }
 
-    if (on) {
+  // плавно поднять / опустить громкость (без щелчков)
+  function fade(to, sec) {
+    const t = ctx.currentTime;
+    master.gain.cancelScheduledValues(t);
+    master.gain.setValueAtTime(master.gain.value, t);
+    master.gain.linearRampToValueAtTime(to, t + sec);
+  }
+
+  // включить: только если ещё не играет; повторные вызовы ничего не делают
+  async function start() {
+    if (on || busy) return;
+    busy = true;
+    try {
+      if (!built) build();
+      if (ctx.state !== "running") await ctx.resume();
+      if (ctx.state !== "running") return;      // браузер не разрешил — молчим, без писка
+      on = true;
+      fade(0.5, 3);
       clearTimeout(bellTimer);
       bellTimer = setTimeout(bell, 2600);
-    } else {
-      clearTimeout(bellTimer);
+      setUI();
+    } catch (e) {
+      /* ignore */
+    } finally {
+      busy = false;
     }
   }
 
-  btn.addEventListener("click", toggle);
+  function stop() {
+    if (!on) return;
+    on = false;
+    clearTimeout(bellTimer);
+    fade(0, 1.3);
+    setUI();
+  }
 
-  // автозапуск: пробуем сразу, иначе при первом действии посетителя
   let userOff = false;
-  btn.addEventListener("click", () => { if (!on) userOff = true; });
-  function autoStart(e) {
-    if (on && ctx && ctx.state !== "running") { ctx.resume().then(() => { if (ctx.state === "running") cleanup(); }).catch(() => {}); return; }
+  btn.addEventListener("click", () => {
+    if (on) { userOff = true; stop(); }
+    else { userOff = false; start(); }
+  });
+
+  // автозапуск — только на настоящее касание/клик (не на прокрутку)
+  let downX = 0, downY = 0, downT = 0, moved = false;
+  function onDown(e) { downX = e.clientX; downY = e.clientY; downT = Date.now(); moved = false; }
+  function onMove(e) { if (Math.abs(e.clientX - downX) > 10 || Math.abs(e.clientY - downY) > 10) moved = true; }
+  function onUp(e) {
+    if (moved || Date.now() - downT > 600) return;  // это был свайп/скролл
+    tryAuto(e);
+  }
+  function tryAuto(e) {
     if (on || userOff) return cleanup();
     if (e && e.target && btn.contains(e.target)) return cleanup();
-    toggle().then(() => { if (ctx && ctx.state === "running") cleanup(); }).catch(() => {});
+    start().then(() => { if (on) cleanup(); });
   }
-  const EV = ["pointerdown", "keydown", "touchstart", "touchend", "click", "wheel", "scroll"];
-  function cleanup() { EV.forEach((n) => window.removeEventListener(n, autoStart, true)); }
-  EV.forEach((n) => window.addEventListener(n, autoStart, { capture: true, passive: true }));
-  window.addEventListener("load", () => {
-    if (!built) build();
-    ctx.resume().then(() => { if (ctx.state === "running" && !on) { toggle(); cleanup(); } }).catch(() => {});
-  });
+  function onKey(e) { if (e.key === "Enter" || e.key === " ") tryAuto(e); }
+  function cleanup() {
+    window.removeEventListener("pointerdown", onDown, true);
+    window.removeEventListener("pointermove", onMove, true);
+    window.removeEventListener("pointerup", onUp, true);
+    window.removeEventListener("keydown", onKey, true);
+  }
+  window.addEventListener("pointerdown", onDown, { capture: true, passive: true });
+  window.addEventListener("pointermove", onMove, { capture: true, passive: true });
+  window.addEventListener("pointerup", onUp, { capture: true, passive: true });
+  window.addEventListener("keydown", onKey, true);
 
-  document.addEventListener("visibilitychange", () => {
-    if (!ctx) return;
-    if (document.hidden) ctx.suspend();
-    else if (on) ctx.resume();
-  });
+  // сворачивание / другая вкладка: сначала плавно в тишину, потом пауза
+  let hideT = null;
+  function goQuiet() {
+    if (!ctx || ctx.state !== "running") return;
+    const t = ctx.currentTime;
+    master.gain.cancelScheduledValues(t);
+    master.gain.setValueAtTime(master.gain.value, t);
+    master.gain.setTargetAtTime(0, t, 0.04);       // ~150 мс до тишины
+    clearTimeout(hideT);
+    hideT = setTimeout(() => { if (document.hidden && ctx) ctx.suspend().catch(() => {}); }, 220);
+  }
+  function wakeUp() {
+    clearTimeout(hideT);
+    if (!ctx || !on) return;
+    ctx.resume().then(() => { if (on && !document.hidden) fade(0.5, 1.5); }).catch(() => {});
+  }
+  document.addEventListener("visibilitychange", () => { document.hidden ? goQuiet() : wakeUp(); });
+  window.addEventListener("pagehide", goQuiet);
+  window.addEventListener("pageshow", () => { if (!document.hidden) wakeUp(); });
 })();

@@ -322,6 +322,14 @@
     },
   };
 
+  // во время прокрутки рисуем реже — меньше нагрузка на телефон
+  let scrolling = false, scrollT = null, frameN = 0;
+  window.addEventListener("scroll", () => {
+    scrolling = true;
+    clearTimeout(scrollT);
+    scrollT = setTimeout(() => { scrolling = false; }, 180);
+  }, { passive: true });
+
   function parseLayer(tok) {
     const [name, rest] = tok.split("@");
     const base = SCENES[name];
@@ -411,7 +419,7 @@
         if (!last) last = t;
         const dt = Math.min((t - last) / 1000, 0.05);
         last = t;
-        step(dt);
+        if (!scrolling || (++frameN & 3) === 0) step(scrolling ? dt * 4 : dt);
       }
       raf = requestAnimationFrame(loop);
     }
