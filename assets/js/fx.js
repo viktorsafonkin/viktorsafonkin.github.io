@@ -248,6 +248,50 @@
       },
     },
 
+
+    // Шум: мелкое мерцающее «телевизионное» зерно (заранее готовые плитки)
+    noise: {
+      blend: "overlay",
+      region: [0, 0, 1, 1],
+      count: 1,
+      spawn(p, w, h) {
+        p.vx = 0; p.vy = 0; p.x = 0; p.y = 0;
+        p.life = 0; p.max = 1e9; p.w = w; p.h = h;
+        p.t = 0; p.i = 0; p.ox = 0; p.oy = 0;
+      },
+      tiles: null,
+      draw(ctx, p) {
+        const S = SCENES.noise;
+        if (!S.tiles) {
+          S.tiles = [];
+          for (let k = 0; k < 4; k++) {
+            const c = document.createElement("canvas");
+            c.width = c.height = 96;
+            const g = c.getContext("2d");
+            const im = g.createImageData(96, 96);
+            for (let j = 0; j < im.data.length; j += 4) {
+              const v = Math.random() * 255;
+              im.data[j] = im.data[j + 1] = im.data[j + 2] = v;
+              im.data[j + 3] = 255;
+            }
+            g.putImageData(im, 0, 0);
+            S.tiles.push(ctx.createPattern(c, "repeat"));
+          }
+        }
+        p.t += 1;
+        if (p.t % 4 === 0) {           // ~15 кадров/с
+          p.i = (p.i + 1) % S.tiles.length;
+          p.ox = Math.random() * 96; p.oy = Math.random() * 96;
+        }
+        ctx.save();
+        ctx.globalAlpha = 0.16;
+        ctx.translate(-p.ox, -p.oy);
+        ctx.fillStyle = S.tiles[p.i];
+        ctx.fillRect(0, 0, p.w + 96, p.h + 96);
+        ctx.restore();
+      },
+    },
+
     // Снег
     snow: {
       blend: "source-over",
