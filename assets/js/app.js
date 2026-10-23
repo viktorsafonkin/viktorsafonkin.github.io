@@ -211,6 +211,12 @@
     });
   });
 
+  const heroEl = $(".hero");
+  if (heroEl) heroEl.addEventListener("click", (e) => {
+    if (e.target.closest("a,button")) return;
+    open(0);
+  });
+
   btnPrev.addEventListener("click", () => show(index - 1));
   btnNext.addEventListener("click", () => show(index + 1));
   btnClose.addEventListener("click", close);
