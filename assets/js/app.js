@@ -33,6 +33,8 @@
   }
 
 
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
   /* ---------- галерея: параллакс фрагментов ---------- */
   if (!reduce) {
     document.querySelectorAll(".work").forEach((card) => {
