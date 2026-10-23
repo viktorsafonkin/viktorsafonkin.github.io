@@ -216,6 +216,38 @@
       },
     },
 
+
+    // Рябь: едва заметные светлые волны медленно плывут по картине
+    ripple: {
+      blend: "soft-light",
+      region: [0, 0, 1, 1],
+      count: 3,
+      spawn(p, w, h, r, initial) {
+        p.vx = 0; p.vy = 0;
+        p.x = 0; p.y = 0;
+        p.life = 0;
+        p.max = 14 + Math.random() * 8;
+        p.y0 = Math.random() * h;
+        p.speed = 6 + Math.random() * 6;
+        p.amp = 4 + Math.random() * 5;
+        p.len = 90 + Math.random() * 80;
+        p.phase = Math.random() * 6.28;
+        p.w = w; p.h = h;
+      },
+      draw(ctx, p, a) {
+        const w = p.w, h = p.h;
+        const y = (p.y0 + p.life * p.speed) % (h + 40) - 20;
+        ctx.strokeStyle = "rgba(255,255,255," + (a * 0.16) + ")";
+        ctx.lineWidth = 10;
+        ctx.beginPath();
+        for (let x = 0; x <= w; x += 12) {
+          const yy = y + Math.sin(x / p.len * 6.28 + p.phase + p.life * 0.5) * p.amp;
+          if (x === 0) ctx.moveTo(x, yy); else ctx.lineTo(x, yy);
+        }
+        ctx.stroke();
+      },
+    },
+
     // Снег
     snow: {
       blend: "source-over",
