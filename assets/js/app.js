@@ -97,6 +97,34 @@
     });
   })();
 
+  /* ---------- кнопка «плей» на карточках ---------- */
+  document.querySelectorAll(".card-play").forEach((btn) => {
+    const box = btn.closest(".work-img");
+    let v = null;
+    const stop = () => {
+      if (v) { v.pause(); v.remove(); v = null; }
+      btn.classList.remove("playing");
+      btn.setAttribute("aria-label", btn.getAttribute("aria-label").replace("Пауза", "Смотреть видео"));
+    };
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      e.preventDefault();
+      if (v) { stop(); return; }
+      v = document.createElement("video");
+      v.className = "card-video";
+      v.muted = true; v.defaultMuted = true; v.playsInline = true;
+      v.setAttribute("muted", ""); v.setAttribute("playsinline", "");
+      v.preload = "auto";
+      v.src = btn.dataset.video;
+      v.addEventListener("ended", stop);
+      box.insertBefore(v, btn);
+      btn.classList.add("playing");
+      btn.setAttribute("aria-label", btn.getAttribute("aria-label").replace("Смотреть видео", "Пауза"));
+      const p = v.play(); if (p) p.catch(() => {});
+    });
+    btn.addEventListener("keydown", (e) => e.stopPropagation());
+  });
+
   /* ---------- lightbox ---------- */
   const lb = $("#lb");
   if (!lb || works.length === 0) return;
