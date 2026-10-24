@@ -493,3 +493,4 @@ body.lb-open{overflow:hidden}
 .album-links{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:6px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase}
 .album-links a{color:inherit;opacity:.6;text-decoration:none}.album-links a:hover{opacity:1}
 @media(max-width:800px){.albums{grid-template-columns:1fr;max-width:480px}}
+.exp li.info-on .t::before,.awards li.info-on::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--blood-2,#c0392b);margin-right:9px;vertical-align:middle;position:relative;top:-1px}
