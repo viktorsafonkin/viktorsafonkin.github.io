@@ -389,3 +389,17 @@ body.lb-open{overflow:hidden}
 .foot-mail:hover{color:var(--ink);border-color:var(--ink)}
 .book-note{margin-top:18px;font-size:12px;line-height:1.6;color:var(--dim);max-width:520px}
 .book-desc{margin:0 0 28px;font-size:14px;line-height:1.7;color:var(--ink);opacity:.85;max-width:620px}
+.hist-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:30px;align-items:start}
+.hist-card{margin:0}
+.hist-main,.hist-th{display:block;padding:0;border:0;background:var(--coal,#111);cursor:zoom-in;width:100%}
+.hist-main img{display:block;width:100%;height:auto}
+.hist-thumbs{display:flex;gap:8px;margin-top:8px}
+.hist-th{width:64px;height:64px;overflow:hidden}
+.hist-th img{width:100%;height:100%;object-fit:cover;display:block}
+.hist-card figcaption{display:flex;flex-direction:column;gap:4px;margin-top:12px}
+.hist-t{font-size:1.1em}.hist-m{opacity:.7;font-size:.9em}.hist-s{opacity:.85;font-size:.9em;line-height:1.5;margin-top:6px}
+.hist-lb{position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.92);display:flex;align-items:center;justify-content:center;cursor:zoom-out}
+.hist-lb[hidden]{display:none}
+.hist-lb img{max-width:94vw;max-height:92vh}
+.hist-lb-x{position:absolute;top:14px;right:18px;background:none;border:0;color:#fff;font-size:26px;cursor:pointer}
+@media(max-width:700px){.hist-grid{grid-template-columns:1fr}}
