@@ -449,3 +449,16 @@ body.lb-open{overflow:hidden}
 .iv-play::after{content:"";position:absolute;left:30px;top:24px;border-left:20px solid #E8E1D5;border-top:13px solid transparent;border-bottom:13px solid transparent}
 .iv figcaption{margin-top:10px;font-size:11px;letter-spacing:.2em;text-transform:uppercase;opacity:.7}
 @media(max-width:600px){.iv-list{grid-template-columns:1fr}}
+.iv-html5{cursor:default}
+.iv-html5 video{position:absolute;inset:0;width:100%;height:100%;background:#000}
+.guests{margin-top:70px}
+.guests h2{font-size:clamp(22px,2.4vw,32px);font-weight:300;margin:0 0 24px}
+.guests-grid{columns:3;column-gap:10px}
+.guest{margin:0 0 10px;break-inside:avoid}
+.guest img{width:100%;height:auto;display:block}
+.guest figcaption{margin-top:6px;font-size:.85em;opacity:.75;line-height:1.45}
+@media(max-width:700px){.guests-grid{columns:1}}
+.gilliam{margin:80px auto 0;max-width:880px;padding:40px 0 0;border-top:1px solid rgba(232,225,213,.12);text-align:center}
+.gilliam blockquote{margin:0;font-size:clamp(17px,1.7vw,22px);font-weight:300;line-height:1.6;font-style:italic;color:var(--ink,#E8E1D5)}
+.gilliam-ru{margin:22px 0 0;font-size:15px;line-height:1.7;opacity:.7}
+.gilliam figcaption{margin-top:22px;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--blood-2,#a33)}
