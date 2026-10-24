@@ -494,3 +494,4 @@ body.lb-open{overflow:hidden}
 .album-links a{color:inherit;opacity:.6;text-decoration:none}.album-links a:hover{opacity:1}
 @media(max-width:800px){.albums{grid-template-columns:1fr;max-width:480px}}
 .exp li.info-on .t::after,.awards li.info-on::after{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--blood-2,#c0392b);margin-left:8px;vertical-align:middle;position:relative;top:-1px}
+.exp li.info-on .t::after,.awards li.info-on::after{width:2.5px;height:2.5px;margin-left:6px;top:-1px}
