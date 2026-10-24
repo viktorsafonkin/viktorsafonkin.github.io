@@ -98,7 +98,7 @@ ul,ol{margin:0;padding:0;list-style:none}
   position:absolute;inset:0;z-index:1;
   background:
     linear-gradient(90deg,rgba(10,9,8,.97) 0%,rgba(10,9,8,.86) 32%,rgba(10,9,8,.30) 64%,rgba(10,9,8,.18) 100%),
-    linear-gradient(180deg,rgba(10,9,8,.85) 0%,rgba(10,9,8,.10) 26%,rgba(10,9,8,.15) 58%,rgba(10,9,8,.94) 100%);
+    linear-gradient(180deg,rgba(10,9,8,.85) 0%,rgba(10,9,8,.10) 26%,rgba(10,9,8,.10) 70%,rgba(10,9,8,.55) 100%);
 }
 .hero-inner{position:relative;z-index:2;width:100%;max-width:var(--shell);margin:0 auto;padding:0 32px 10vh}
 .kicker{
@@ -400,3 +400,14 @@ body.lb-open{overflow:hidden}
 .hist-lb img{max-width:94vw;max-height:92vh}
 .hist-lb-x{position:absolute;top:14px;right:18px;background:none;border:0;color:#fff;font-size:26px;cursor:pointer}
 @media(max-width:700px){.hist-grid{grid-template-columns:1fr}}
+
+/* short wide screens: hero = exactly the viewport, video fills it */
+@media (max-height:700px) and (min-width:761px){
+  .hero{min-height:0;height:100svh}
+  .hero-inner{padding-bottom:6vh}
+  .hero-cap{bottom:6vh}
+  .hero h1{font-size:clamp(40px,11vh,96px)}
+  .hero .kicker{margin-bottom:2vh}
+  .hero-sub{margin-top:2vh;margin-bottom:2vh}
+}
+@media (max-height:520px) and (min-width:761px){.hero-meta{display:none}}
