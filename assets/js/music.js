@@ -185,8 +185,9 @@
   }
 
   // включить: только если ещё не играет; повторные вызовы ничего не делают
+  let hold = false;   // видео/интервью играет — музыка молчит
   async function start() {
-    if (on || busy) return;
+    if (on || busy || hold) return;
     busy = true;
     try {
       if (!built) build();
@@ -215,7 +216,7 @@
   let userOff = false;
   btn.addEventListener("click", () => {
     if (on) { userOff = true; stop(); }
-    else { userOff = false; start(); }
+    else { userOff = false; hold = false; start(); }
   });
 
   // автозапуск — только на настоящее касание/клик (не на прокрутку)
@@ -229,6 +230,7 @@
   function tryAuto(e) {
     if (on || userOff) return cleanup();
     if (e && e.target && btn.contains(e.target)) return cleanup();
+    if (e && e.target && e.target.closest && e.target.closest("[data-no-music]")) return;
     start().then(() => { if (on) cleanup(); });
   }
   function onKey(e) { if (e.key === "Enter" || e.key === " ") tryAuto(e); }
@@ -256,9 +258,14 @@
   }
   function wakeUp() {
     clearTimeout(hideT);
-    if (!ctx || !on) return;
+    if (!ctx || !on || hold) return;
     ctx.resume().then(() => { if (on && !document.hidden) fade(0.5, 1.5); }).catch(() => {});
   }
+  // внешний API: пауза на время видео
+  window.SiteMusic = {
+    hold: function () { hold = true; if (on) { stop(); } },
+    release: function () { hold = false; }
+  };
   document.addEventListener("visibilitychange", () => { document.hidden ? goQuiet() : wakeUp(); });
   window.addEventListener("pagehide", goQuiet);
   window.addEventListener("pageshow", () => { if (!document.hidden) wakeUp(); });
