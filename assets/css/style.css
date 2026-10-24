@@ -462,3 +462,4 @@ body.lb-open{overflow:hidden}
 .gilliam blockquote{margin:0;font-size:clamp(17px,1.7vw,22px);font-weight:300;line-height:1.6;font-style:italic;color:var(--ink,#E8E1D5)}
 .gilliam-ru{margin:22px 0 0;font-size:15px;line-height:1.7;opacity:.7}
 .gilliam figcaption{margin-top:22px;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--blood-2,#a33)}
+.iv-sub{font-size:clamp(20px,2vw,28px);font-weight:300;margin:50px 0 20px}
