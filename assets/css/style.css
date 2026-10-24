@@ -470,3 +470,12 @@ body.lb-open{overflow:hidden}
 .info-on:hover .bdg,.info-on:focus-visible .bdg{opacity:1;border-color:rgba(232,225,213,.4)}
 @media(hover:hover){.info-on:hover{background:rgba(232,225,213,.05)}}
 @media(max-width:700px){.bdgs{margin-left:0;margin-top:6px;display:flex}}
+.statement{margin:70px auto 0;max-width:880px}
+.statement blockquote{margin:12px 0 0;font-size:clamp(16px,1.45vw,19px);font-weight:300;line-height:1.75;color:var(--ink,#E8E1D5)}
+.statement figcaption{margin-top:18px;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--blood-2,#a33)}
+.albums{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;max-width:960px}
+.album{margin:0}
+.album img{width:100%;height:auto;display:block}
+.album figcaption{margin-top:10px;display:flex;flex-direction:column;gap:2px;font-size:.9em}
+.album figcaption b{font-weight:500;font-size:11px;letter-spacing:.2em;text-transform:uppercase;opacity:.7}
+@media(max-width:700px){.albums{grid-template-columns:repeat(2,minmax(0,1fr))}}
