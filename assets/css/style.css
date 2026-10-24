@@ -495,3 +495,5 @@ body.lb-open{overflow:hidden}
 @media(max-width:800px){.albums{grid-template-columns:1fr;max-width:480px}}
 .exp li.info-on .t::after,.awards li.info-on::after{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--blood-2,#c0392b);margin-left:8px;vertical-align:middle;position:relative;top:-1px}
 .exp li.info-on .t::after,.awards li.info-on::after{width:2.5px;height:2.5px;margin-left:6px;top:-1px}
+
+a.person{color:inherit;text-decoration:underline;text-decoration-color:rgba(192,57,43,.6);text-underline-offset:3px;position:relative}a.person:hover{color:#fff}@media(hover:hover){a.person[data-tip]:hover::after{content:attr(data-tip);position:absolute;left:0;bottom:calc(100% + 6px);width:max-content;max-width:260px;white-space:normal;background:#111;color:#ddd;border:1px solid #333;padding:6px 9px;font-size:12px;line-height:1.35;letter-spacing:0;text-transform:none;border-radius:4px;z-index:20;pointer-events:none;box-shadow:0 4px 14px rgba(0,0,0,.5)}}
