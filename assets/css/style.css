@@ -424,7 +424,6 @@ body.lb-open{overflow:hidden}
 @media(max-width:760px){.hero-book{font-size:10px;letter-spacing:.16em}}
 .info-on{cursor:pointer;transition:color .2s,background .2s}
 .info-on:hover,.info-on:focus-visible{color:var(--ink,#E8E1D5);background:rgba(255,255,255,.03);outline:none}
-.info-on .t::after,.awards .info-on::after{content:" ↗";color:var(--blood-2,#a33);font-size:.85em}
 .info-md{position:fixed;inset:0;z-index:10000;background:rgba(10,9,8,.88);display:flex;align-items:center;justify-content:center;padding:24px;backdrop-filter:blur(4px)}
 .info-md[hidden]{display:none}
 .info-box{position:relative;background:#14120F;border:1px solid rgba(232,225,213,.12);max-width:820px;width:100%;max-height:88vh;overflow:auto;padding:40px 40px 32px}
@@ -463,3 +462,11 @@ body.lb-open{overflow:hidden}
 .gilliam-ru{margin:22px 0 0;font-size:15px;line-height:1.7;opacity:.7}
 .gilliam figcaption{margin-top:22px;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--blood-2,#a33)}
 .iv-sub{font-size:clamp(20px,2vw,28px);font-weight:300;margin:50px 0 20px}
+.exp-hint{font-size:11px;letter-spacing:.18em;text-transform:uppercase;opacity:.5;margin:0 0 18px}
+.bdgs{display:inline-flex;gap:6px;margin-left:10px;vertical-align:middle;flex-wrap:wrap}
+.bdg{display:inline-flex;align-items:center;gap:4px;padding:2px 7px;border:1px solid rgba(232,225,213,.18);border-radius:10px;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;opacity:.6;white-space:nowrap;transition:opacity .2s,border-color .2s}
+.bdg svg{display:block}
+.bdg-ph{color:var(--blood-2,#c44);border-color:rgba(190,60,50,.4)}
+.info-on:hover .bdg,.info-on:focus-visible .bdg{opacity:1;border-color:rgba(232,225,213,.4)}
+@media(hover:hover){.info-on:hover{background:rgba(232,225,213,.05)}}
+@media(max-width:700px){.bdgs{margin-left:0;margin-top:6px;display:flex}}
