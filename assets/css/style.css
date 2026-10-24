@@ -413,3 +413,8 @@ body.lb-open{overflow:hidden}
   .hero-sub{margin-top:2vh;margin-bottom:2vh}
 }
 @media (max-height:520px) and (min-width:761px){.hero-meta{display:none}}
+
+.foot-sig{display:flex;flex-direction:column;gap:6px}
+.foot-soc{display:flex;gap:16px;font-size:10.5px;letter-spacing:.18em;text-transform:uppercase}
+.foot-soc a{color:inherit;opacity:.6;text-decoration:none;transition:opacity .2s}
+.foot-soc a:hover{opacity:1}
