@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Onest:wght@100;200;300;400;500;600;700&family=Inter:wght@300;400;500&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css?v=25">
+<link rel="stylesheet" href="assets/css/style.css?v=26">
 </head>
 <body class="page-works page-history">
 
@@ -66,7 +66,7 @@
     <div class="iv-list">
       <figure class="iv">
         <div class="iv-video iv-html5" data-no-music>
-          <video controls preload="none" playsinline poster="assets/video/tvorchestvo-poster.jpg?v=2" width="400" height="224" aria-label="Видео о творчестве Виктора Сафонкина"><source src="assets/video/tvorchestvo.mp4" type="video/mp4"></video>
+          <video controls preload="metadata" playsinline poster="assets/video/tvorchestvo-poster.jpg?v=2" width="400" height="224" aria-label="Видео о творчестве Виктора Сафонкина"><source src="assets/video/tvorchestvo.mp4" type="video/mp4"></video><button type="button" class="iv-play iv-start" aria-label="Смотреть видео"></button>
         </div>
         <figcaption>Видео о творчестве</figcaption>
       </figure>
@@ -91,7 +91,7 @@
 <script>(function(){document.querySelectorAll(".iv-video[data-yt]").forEach(function(b){function go(){if(b.dataset.on)return;b.dataset.on=1;if(window.SiteMusic)window.SiteMusic.hold();var f=document.createElement("iframe");f.src="https://www.youtube-nocookie.com/embed/"+b.dataset.yt+"?autoplay=1&rel=0";f.title=b.getAttribute("aria-label");f.allow="autoplay; encrypted-media; picture-in-picture; fullscreen";f.allowFullscreen=true;b.innerHTML="";b.appendChild(f);}b.addEventListener("click",go);b.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();go();}});});})();</script>
 </main>
 <div class="hist-lb" id="histLb" hidden><button type="button" class="hist-lb-x" aria-label="Закрыть">✕</button><img alt=""></div>
-<script>(function(){document.querySelectorAll(".iv-html5 video").forEach(function(v){var hov=window.matchMedia("(hover:hover) and (pointer:fine)").matches,on=false;function snd(){if(!v.muted&&!v.paused&&window.SiteMusic)window.SiteMusic.hold();}v.addEventListener("play",snd);v.addEventListener("volumechange",function(){if(!v.muted){on=true;snd();}});if(hov){v.preload="metadata";v.addEventListener("mouseenter",function(){if(on)return;v.muted=true;var p=v.play();if(p&&p.catch)p.catch(function(){});});v.addEventListener("mouseleave",function(){if(!on)v.pause();});v.addEventListener("click",function(e){if(on)return;e.preventDefault();on=true;v.muted=false;v.play();},true);}});var lb=document.getElementById("histLb"),im=lb.querySelector("img");document.querySelectorAll(".guest .hist-main").forEach(function(b){b.addEventListener("click",function(){im.src=b.dataset.full;im.alt=b.querySelector("img").alt;lb.hidden=false;});});lb.addEventListener("click",function(){lb.hidden=true;im.src="";});document.addEventListener("keydown",function(e){if(e.key==="Escape")lb.hidden=true;});})();</script>
+<script>(function(){document.querySelectorAll(".iv-html5 video").forEach(function(v){var hov=window.matchMedia("(hover:hover) and (pointer:fine)").matches,on=false;function snd(){if(!v.muted&&!v.paused&&window.SiteMusic)window.SiteMusic.hold();}var sb=v.parentNode.querySelector(".iv-start");if(sb){sb.addEventListener("click",function(e){e.stopPropagation();on=true;v.muted=false;var p=v.play();if(p&&p.catch)p.catch(function(){});});v.addEventListener("play",function(){sb.hidden=true;});v.addEventListener("pause",function(){if(on)sb.hidden=false;});}v.addEventListener("play",snd);v.addEventListener("volumechange",function(){if(!v.muted){on=true;snd();}});if(hov){v.preload="metadata";v.addEventListener("mouseenter",function(){if(on)return;v.muted=true;var p=v.play();if(p&&p.catch)p.catch(function(){});});v.addEventListener("mouseleave",function(){if(!on)v.pause();});v.addEventListener("click",function(e){if(on)return;e.preventDefault();on=true;v.muted=false;v.play();},true);}});var lb=document.getElementById("histLb"),im=lb.querySelector("img");document.querySelectorAll(".guest .hist-main").forEach(function(b){b.addEventListener("click",function(){im.src=b.dataset.full;im.alt=b.querySelector("img").alt;lb.hidden=false;});});lb.addEventListener("click",function(){lb.hidden=true;im.src="";});document.addEventListener("keydown",function(e){if(e.key==="Escape")lb.hidden=true;});})();</script>
 
 <footer class="foot">
   <div class="shell foot-inner">
