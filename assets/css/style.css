@@ -298,7 +298,7 @@ body.lb-open{overflow:hidden}
   .sec{padding:88px 0}
   .nav{display:none;position:fixed;top:86px;left:0;right:0;flex-direction:column;gap:0;
     background:rgba(10,9,8,.98);border-bottom:1px solid var(--line-soft);padding:8px 32px 24px;z-index:70}
-  .nav.open{display:flex}
+  .nav.open{display:flex;max-height:calc(100vh - 86px);max-height:calc(100dvh - 86px);overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding-bottom:90px}
   .nav a{padding:16px 0;border-bottom:1px solid var(--line-soft);font-size:12px}
   .burger{display:block}
   .hdr-cta{display:none}
