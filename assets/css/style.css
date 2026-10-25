@@ -503,6 +503,12 @@ a.mlink{color:inherit;text-decoration:underline;text-decoration-color:rgba(192,5
 .museums a.mcard{padding:28px 26px}
 .iv-html5{position:relative}.iv-start{cursor:pointer;padding:0;z-index:2}.iv-start[hidden]{display:none}
 
-/* language switcher */
-.lang-sw{white-space:nowrap}
-.lang-sw .lang-cur{text-decoration:underline}
+.lang-dd{position:relative}
+.lang-btn{white-space:nowrap;font:inherit;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);background:none;border:0;padding:4px 0;cursor:pointer}
+.lang-btn:hover,.lang-btn[aria-expanded="true"]{color:var(--ink)}
+.lang-list{position:absolute;right:0;top:100%;margin:6px 0 0;padding:6px 0;list-style:none;background:#11100E;border:1px solid rgba(233,226,214,.15);min-width:140px;z-index:80}
+.lang-list[hidden]{display:none}
+.nav .lang-list a{display:block;padding:7px 14px;letter-spacing:.05em;text-transform:none;font-size:13px;color:var(--dim);border:0}
+.nav .lang-list a::after{display:none}
+.nav .lang-list a:hover,.nav .lang-list a:focus,.nav .lang-list a[aria-current]{color:var(--ink)}
+@media (max-width:820px){.lang-dd{padding:12px 0}.lang-btn{font-size:12px}.lang-list{position:static;margin-top:8px;border:0;background:none}.nav .lang-list a{padding:10px 0}}
