@@ -142,22 +142,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -282,6 +266,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -425,22 +421,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/en/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/en/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/en/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -565,6 +545,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/en/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/en/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -708,22 +700,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/zh/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/zh/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/zh/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -848,6 +824,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/zh/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/zh/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -991,22 +979,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/ja/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/ja/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/ja/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -1131,6 +1103,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/ja/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/ja/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -1274,22 +1258,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/de/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/de/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/de/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -1414,6 +1382,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/de/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/de/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -1557,22 +1537,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/fr/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/fr/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/fr/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -1697,6 +1661,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/fr/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/fr/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -1840,22 +1816,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/es/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/es/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/es/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -1980,6 +1940,18 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/es/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/es/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
@@ -2123,22 +2095,6 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/neubivaemyy.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/vavilonskaya-bashnya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pozhirateli-lzhi.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/cs/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
-  </url>
-  <url><loc>https://viktorsafonkin.github.io/cs/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
-    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://viktorsafonkin.github.io/cs/gallery.html</loc>
-    <lastmod>2026-10-25</lastmod>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/001.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/002.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/003.jpg</image:loc></image:image>
@@ -2263,5 +2219,17 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/122.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/123.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/cs/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
+  </url>
+  <url><loc>https://viktorsafonkin.github.io/cs/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
 </urlset>
