@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://viktorsafonkin.github.io/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -11,6 +20,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -21,6 +39,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -268,6 +295,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -275,11 +311,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -290,6 +344,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -300,6 +363,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -547,6 +619,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -554,11 +635,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/en/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -569,6 +668,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -579,6 +687,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -826,6 +943,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -833,11 +959,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/zh/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -848,6 +992,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -858,6 +1011,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -1105,6 +1267,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -1112,11 +1283,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/ja/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1127,6 +1316,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1137,6 +1335,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -1384,6 +1591,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -1391,11 +1607,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/de/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1406,6 +1640,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1416,6 +1659,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -1663,6 +1915,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -1670,11 +1931,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/fr/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1685,6 +1964,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1695,6 +1983,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -1942,6 +2239,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -1949,11 +2255,29 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/es/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/</loc><lastmod>2026-10-24</lastmod><priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1964,6 +2288,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/works.html</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/works.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/works.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/works.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/works.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/works.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/works.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/works.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/works.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-01.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-02.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-03.jpg</image:loc></image:image>
@@ -1974,6 +2307,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/frag/frag-08.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/history.html</loc><lastmod>2026-10-24</lastmod><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/history.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/history.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/history.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/history.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/history.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/history.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/history.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/history.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/pyushchie-zerkala.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/skrytaya-informatsiya.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/history/misticheskie-nyryalshchiki.jpg</image:loc></image:image>
@@ -2221,6 +2563,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/gallery/124.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/interview.html</loc><lastmod>2026-10-24</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/interview.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/interview.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/del-toro-praga.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/fuks-giger-gruyer.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/viktor-safonkin.jpg</image:loc></image:image>
@@ -2228,6 +2579,15 @@
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/guests/vernisazh-2.jpg</image:loc></image:image>
   </url>
   <url><loc>https://viktorsafonkin.github.io/cs/albums.html</loc><lastmod>2026-10-24</lastmod><priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://viktorsafonkin.github.io/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://viktorsafonkin.github.io/en/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://viktorsafonkin.github.io/zh/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://viktorsafonkin.github.io/ja/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://viktorsafonkin.github.io/de/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://viktorsafonkin.github.io/fr/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://viktorsafonkin.github.io/es/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://viktorsafonkin.github.io/cs/albums.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://viktorsafonkin.github.io/albums.html"/>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-our-souls-to-you.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/october-file-holy-armour.jpg</image:loc></image:image>
     <image:image><image:loc>https://viktorsafonkin.github.io/assets/albums/viva-death-curse-the-darkness.jpg</image:loc></image:image>
